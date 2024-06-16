@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 97060648
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 328657ac53bd697bf908985ea80a7a16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07353491aca6e6a29636b555171f2e48
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/Misc/InfectionDisplays/void1Infection.prefab
+- Assets/Models/Misc/InfectionDisplays/InfectionT4.mat
+- Assets/Models/Misc/InfectionDisplays/vdluInfect.prefab
+- Assets/Models/Misc/InfectionDisplays/LunarInfectionSingleMesh.asset
+- Assets/Models/Misc/InfectionDisplays/void2Infection.prefab
+- Assets/Models/Misc/InfectionDisplays/t4Infection.prefab
+- Assets/Models/Misc/InfectionDisplays/voidInfectionT3.mat
+- Assets/Models/Misc/InfectionDisplays/syblInfect.prefab
+- Assets/Models/Misc/InfectionDisplays/texRampLunarInfection.png
+- Assets/Models/Misc/InfectionDisplays/vdluInfectMat.mat
+- Assets/Models/Misc/InfectionDisplays/voidInfectionT4.mat
+- Assets/Models/Misc/InfectionDisplays/voidInfectionT1.mat
+- Assets/Models/Misc/InfectionDisplays/sacrInfect.prefab
+- Assets/Models/Misc/InfectionDisplays/voidInfectionT2.mat
+- Assets/Models/Misc/InfectionDisplays/syblInfectMat.mat
+- Assets/Models/Misc/InfectionDisplays/void3Infection.prefab
+- Assets/Models/Misc/InfectionDisplays/sacriInfectMat.mat
+- Assets/Models/Misc/InfectionDisplays/texRampItemInfection.png
+- Assets/Models/Misc/InfectionDisplays/void4Infection.prefab
+- Assets/Models/Misc/InfectionDisplays/LunarInfectionSmallMesh.asset
+- Assets/Models/Misc/InfectionDisplays/texRampDefault.png
+Dependencies: []
